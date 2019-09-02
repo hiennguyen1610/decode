@@ -1,0 +1,2 @@
+# decode
+First GO package
